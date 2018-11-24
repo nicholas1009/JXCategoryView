@@ -733,12 +733,12 @@
 		19870CCB2122BB6100C23CAA /* Number */ = {
 			isa = PBXGroup;
 			children = (
-				19870CCC2122BB6100C23CAA /* JXCategoryNumberCellModel.h */,
-				19870CCD2122BB6100C23CAA /* JXCategoryNumberView.m */,
+				19870CD12122BB6100C23CAA /* JXCategoryNumberCell.h */,
 				19870CCE2122BB6100C23CAA /* JXCategoryNumberCell.m */,
+				19870CCC2122BB6100C23CAA /* JXCategoryNumberCellModel.h */,
 				19870CCF2122BB6100C23CAA /* JXCategoryNumberCellModel.m */,
 				19870CD02122BB6100C23CAA /* JXCategoryNumberView.h */,
-				19870CD12122BB6100C23CAA /* JXCategoryNumberCell.h */,
+				19870CCD2122BB6100C23CAA /* JXCategoryNumberView.m */,
 			);
 			path = Number;
 			sourceTree = "<group>";
@@ -1129,11 +1129,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = CUHY5967Q2;
+				DEVELOPMENT_TEAM = 6TF9DQPVGS;
 				INFOPLIST_FILE = JXCategoryView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = jiaxin.JXCategoryView.33;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tinkers.jxcategoryview;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1148,11 +1148,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = CUHY5967Q2;
+				DEVELOPMENT_TEAM = 6TF9DQPVGS;
 				INFOPLIST_FILE = JXCategoryView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = jiaxin.JXCategoryView.33;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tinkers.jxcategoryview;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_VERSION = 3.0;

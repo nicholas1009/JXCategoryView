@@ -21,7 +21,7 @@
     self.numberLabel = ({
         UILabel *label = [[UILabel alloc] init];
         label.textColor = [UIColor whiteColor];
-        label.backgroundColor = [UIColor colorWithRed:241/255.0 green:147/255.0 blue:95/255.0 alpha:1];
+        label.backgroundColor = [UIColor colorWithRed:217/255.0 green:32/255.0 blue:39/255.0 alpha:1];
         label.font = [UIFont systemFontOfSize:11];
         label.textAlignment = NSTextAlignmentCenter;
         label.layer.cornerRadius = 7;
